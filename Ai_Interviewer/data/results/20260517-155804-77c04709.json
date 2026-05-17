@@ -1,0 +1,460 @@
+{
+  "session_id": "20260517-155804-77c04709",
+  "candidate_name": "candidate@itu.edu.pk",
+  "candidate_email": "candidate@itu.edu.pk",
+  "interview_template_id": "default-software_engineer",
+  "interview_title": "Software Engineer Screening",
+  "role": "software_engineer",
+  "max_questions": 5,
+  "started_at": "2026-05-17T15:58:04",
+  "completed_at": "2026-05-17T16:01:32",
+  "answers": [
+    {
+      "question": {
+        "id": "se_intro",
+        "text": "Tell me about yourself and the software work you are most proud of.",
+        "skill": "communication",
+        "level": "core",
+        "keywords": [
+          "software",
+          "project",
+          "team",
+          "problem",
+          "result"
+        ],
+        "supportive_prompt": "Describe one project, your role in it, and the result."
+      },
+      "answer": "alright so my name is Kumar and I am a software engineering student and so I have worked on several Software Engineering projects and one of the project which I have always been so proud of is actually the library management system depriving so what's so special about it so basically this project I have deployed on AWS and it solves one real world problem so the problem is that basically in Nigeria there is an availability of you know all of physical hardware limit physical hardware availability in Nigeria so if we make a library management system and if we deploy it on any device then that would definitely solve this problem",
+      "audio_path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\audio\\20260517-155804-77c04709_se_intro.wav",
+      "transcript": {
+        "text": "alright so my name is Kumar and I am a software engineering student and so I have worked on several Software Engineering projects and one of the project which I have always been so proud of is actually the library management system depriving so what's so special about it so basically this project I have deployed on AWS and it solves one real world problem so the problem is that basically in Nigeria there is an availability of you know all of physical hardware limit physical hardware availability in Nigeria so if we make a library management system and if we deploy it on any device then that would definitely solve this problem",
+        "status": "ok",
+        "error": null
+      },
+      "response_seconds": 68.16,
+      "evaluation": {
+        "final_score": 47.47,
+        "skill_score": 18.83,
+        "keyword_score": 83.0,
+        "communication_score": 72.62,
+        "thinking_score": 35.0,
+        "eq_score": 35.0,
+        "label": "Needs detail",
+        "feedback": "Partially relevant. Give more detail about your actions and results for communication.",
+        "evidence": [
+          "Response time: 68.2 seconds",
+          "Matched skill terms: software, project, problem",
+          "Answer has enough detail for communication scoring."
+        ]
+      },
+      "behavior": {
+        "face_detected": true,
+        "eye_contact_score": 74.93,
+        "posture_score": 77.54,
+        "expression_label": "neutral",
+        "stress_score": 50.2,
+        "notes": [
+          "Tracking samples: 63",
+          "Face detected in 100% of samples",
+          "Honesty score is a consistency heuristic, not lie detection",
+          "Long response delay increased stress estimate"
+        ],
+        "attention_score": 75.52,
+        "confidence_score": 66.37,
+        "honesty_score": 70.44,
+        "expression_score": 58.16,
+        "movement_score": 76.2,
+        "sample_count": 63,
+        "face_detection_rate": 100.0
+      },
+      "tracking_report": {
+        "path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\tracking\\20260517-155804-77c04709_se_intro.csv",
+        "sample_count": 63,
+        "face_detection_rate": 100.0,
+        "averages": {
+          "eye_contact_score": 74.93,
+          "posture_score": 77.54,
+          "expression_score": 58.16,
+          "stress_score": 38.2,
+          "attention_score": 75.52,
+          "confidence_score": 71.17,
+          "honesty_score": 70.44,
+          "movement_score": 76.2
+        },
+        "expression_distribution": {
+          "uncertain": 31,
+          "neutral": 32
+        },
+        "started_at": "2026-05-17T15:58:07",
+        "ended_at": "2026-05-17T15:59:11"
+      },
+      "answered_at": "2026-05-17T15:59:30"
+    },
+    {
+      "question": {
+        "id": "se_problem_solving",
+        "text": "Describe a difficult technical problem you solved and how you approached it.",
+        "skill": "problem solving",
+        "level": "core",
+        "keywords": [
+          "debug",
+          "test",
+          "design",
+          "tradeoff",
+          "solution"
+        ],
+        "supportive_prompt": "Break the problem into cause, action, and final result."
+      },
+      "answer": "right so a difficult technical problem so when I was doing management system on AWS one of the biggest problems that I faced was the thing that basically",
+      "audio_path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\audio\\20260517-155804-77c04709_se_problem_solving.wav",
+      "transcript": {
+        "text": "right so a difficult technical problem so when I was doing management system on AWS one of the biggest problems that I faced was the thing that basically",
+        "status": "ok",
+        "error": null
+      },
+      "response_seconds": 46.76,
+      "evaluation": {
+        "final_score": 34.02,
+        "skill_score": 8.28,
+        "keyword_score": 35.0,
+        "communication_score": 75.35,
+        "thinking_score": 46.43,
+        "eq_score": 35.0,
+        "label": "Weak",
+        "feedback": "Weak answer. Reframe it with a specific situation, action, and result for problem solving.",
+        "evidence": [
+          "Response time: 46.8 seconds",
+          "Matched skill terms: none",
+          "Answer should include more role-specific detail.",
+          "Answer has enough detail for communication scoring."
+        ]
+      },
+      "behavior": {
+        "face_detected": true,
+        "eye_contact_score": 60.69,
+        "posture_score": 69.44,
+        "expression_label": "uncertain",
+        "stress_score": 52.19,
+        "notes": [
+          "Tracking samples: 43",
+          "Face detected in 88% of samples",
+          "Honesty score is a consistency heuristic, not lie detection",
+          "Long response delay increased stress estimate"
+        ],
+        "attention_score": 62.96,
+        "confidence_score": 60.03,
+        "honesty_score": 63.07,
+        "expression_score": 53.93,
+        "movement_score": 79.07,
+        "sample_count": 43,
+        "face_detection_rate": 88.37
+      },
+      "tracking_report": {
+        "path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\tracking\\20260517-155804-77c04709_se_problem_solving.csv",
+        "sample_count": 43,
+        "face_detection_rate": 88.37,
+        "averages": {
+          "eye_contact_score": 60.69,
+          "posture_score": 69.44,
+          "expression_score": 53.93,
+          "stress_score": 46.19,
+          "attention_score": 62.96,
+          "confidence_score": 62.43,
+          "honesty_score": 63.07,
+          "movement_score": 79.07
+        },
+        "expression_distribution": {
+          "uncertain": 22,
+          "neutral": 16,
+          "not visible": 5
+        },
+        "started_at": "2026-05-17T15:59:33",
+        "ended_at": "2026-05-17T16:00:16"
+      },
+      "answered_at": "2026-05-17T16:00:23"
+    },
+    {
+      "question": {
+        "id": "se_adaptive_support",
+        "text": "Let's take that step by step. What was your exact action and what changed because of it?",
+        "skill": "communication",
+        "level": "supportive",
+        "keywords": [
+          "action",
+          "changed",
+          "result",
+          "learned"
+        ],
+        "supportive_prompt": "Name the action, the outcome, and one thing you learned."
+      },
+      "answer": "so my exact action was that I had deployed it on AWS",
+      "audio_path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\audio\\20260517-155804-77c04709_se_adaptive_support.wav",
+      "transcript": {
+        "text": "so my exact action was that I had deployed it on AWS",
+        "status": "ok",
+        "error": null
+      },
+      "response_seconds": 20.72,
+      "evaluation": {
+        "final_score": 52.07,
+        "skill_score": 28.81,
+        "keyword_score": 55.0,
+        "communication_score": 75.25,
+        "thinking_score": 95.42,
+        "eq_score": 35.0,
+        "label": "Needs detail",
+        "feedback": "Partially relevant. Give more detail about your actions and results for communication.",
+        "evidence": [
+          "Response time: 20.7 seconds",
+          "Matched skill terms: action",
+          "Answer has enough detail for communication scoring."
+        ]
+      },
+      "behavior": {
+        "face_detected": true,
+        "eye_contact_score": 67.45,
+        "posture_score": 78.61,
+        "expression_label": "uncertain",
+        "stress_score": 44.35,
+        "notes": [
+          "Tracking samples: 18",
+          "Face detected in 100% of samples",
+          "Honesty score is a consistency heuristic, not lie detection"
+        ],
+        "attention_score": 69.15,
+        "confidence_score": 66.54,
+        "honesty_score": 65.1,
+        "expression_score": 53.56,
+        "movement_score": 64.4,
+        "sample_count": 18,
+        "face_detection_rate": 100.0
+      },
+      "tracking_report": {
+        "path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\tracking\\20260517-155804-77c04709_se_adaptive_support.csv",
+        "sample_count": 18,
+        "face_detection_rate": 100.0,
+        "averages": {
+          "eye_contact_score": 67.45,
+          "posture_score": 78.61,
+          "expression_score": 53.56,
+          "stress_score": 44.35,
+          "attention_score": 69.15,
+          "confidence_score": 66.54,
+          "honesty_score": 65.1,
+          "movement_score": 64.4
+        },
+        "expression_distribution": {
+          "uncertain": 13,
+          "neutral": 5
+        },
+        "started_at": "2026-05-17T16:00:26",
+        "ended_at": "2026-05-17T16:00:43"
+      },
+      "answered_at": "2026-05-17T16:00:47"
+    },
+    {
+      "question": {
+        "id": "se_teamwork",
+        "text": "Tell me about a time you worked with a team under pressure.",
+        "skill": "teamwork",
+        "level": "core",
+        "keywords": [
+          "team",
+          "communicate",
+          "deadline",
+          "support",
+          "feedback"
+        ],
+        "supportive_prompt": "Focus on how you communicated and supported the team."
+      },
+      "answer": "so I haven't had any experience working with real life team so I think I cannot answer this question",
+      "audio_path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\audio\\20260517-155804-77c04709_se_teamwork.wav",
+      "transcript": {
+        "text": "so I haven't had any experience working with real life team so I think I cannot answer this question",
+        "status": "ok",
+        "error": null
+      },
+      "response_seconds": 24.19,
+      "evaluation": {
+        "final_score": 71.6,
+        "skill_score": 82.35,
+        "keyword_score": 51.0,
+        "communication_score": 79.96,
+        "thinking_score": 92.65,
+        "eq_score": 42.0,
+        "label": "Good",
+        "feedback": "Good direction. Add a concrete example to strengthen teamwork.",
+        "evidence": [
+          "Response time: 24.2 seconds",
+          "Matched skill terms: team",
+          "Answer should include more role-specific detail.",
+          "Answer has enough detail for communication scoring."
+        ]
+      },
+      "behavior": {
+        "face_detected": true,
+        "eye_contact_score": 45.56,
+        "posture_score": 61.68,
+        "expression_label": "uncertain",
+        "stress_score": 55.01,
+        "notes": [
+          "Tracking samples: 21",
+          "Face detected in 67% of samples",
+          "Honesty score is a consistency heuristic, not lie detection"
+        ],
+        "attention_score": 48.11,
+        "confidence_score": 51.89,
+        "honesty_score": 53.43,
+        "expression_score": 48.43,
+        "movement_score": 75.16,
+        "sample_count": 21,
+        "face_detection_rate": 66.67
+      },
+      "tracking_report": {
+        "path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\tracking\\20260517-155804-77c04709_se_teamwork.csv",
+        "sample_count": 21,
+        "face_detection_rate": 66.67,
+        "averages": {
+          "eye_contact_score": 45.56,
+          "posture_score": 61.68,
+          "expression_score": 48.43,
+          "stress_score": 55.01,
+          "attention_score": 48.11,
+          "confidence_score": 51.89,
+          "honesty_score": 53.43,
+          "movement_score": 75.16
+        },
+        "expression_distribution": {
+          "uncertain": 9,
+          "neutral": 5,
+          "not visible": 7
+        },
+        "started_at": "2026-05-17T16:00:50",
+        "ended_at": "2026-05-17T16:01:10"
+      },
+      "answered_at": "2026-05-17T16:01:14"
+    },
+    {
+      "question": {
+        "id": "se_advanced_architecture",
+        "text": "How would you design a fair and scalable candidate shortlisting service?",
+        "skill": "system design",
+        "level": "advanced",
+        "keywords": [
+          "scalable",
+          "fair",
+          "data",
+          "model",
+          "monitoring",
+          "privacy"
+        ],
+        "supportive_prompt": "Mention data flow, scoring, privacy, and monitoring."
+      },
+      "answer": "I did not get your question I am sorry",
+      "audio_path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\audio\\20260517-155804-77c04709_se_advanced_architecture.wav",
+      "transcript": {
+        "text": "I did not get your question I am sorry",
+        "status": "ok",
+        "error": null
+      },
+      "response_seconds": 15.73,
+      "evaluation": {
+        "final_score": 68.35,
+        "skill_score": 90.26,
+        "keyword_score": 35.0,
+        "communication_score": 66.81,
+        "thinking_score": 99.42,
+        "eq_score": 35.0,
+        "label": "Good",
+        "feedback": "Good direction. Add a concrete example to strengthen system design.",
+        "evidence": [
+          "Response time: 15.7 seconds",
+          "Matched skill terms: none",
+          "Answer should include more role-specific detail."
+        ]
+      },
+      "behavior": {
+        "face_detected": true,
+        "eye_contact_score": 50.53,
+        "posture_score": 67.25,
+        "expression_label": "uncertain",
+        "stress_score": 54.34,
+        "notes": [
+          "Tracking samples: 13",
+          "Face detected in 85% of samples",
+          "Honesty score is a consistency heuristic, not lie detection"
+        ],
+        "attention_score": 55.22,
+        "confidence_score": 56.44,
+        "honesty_score": 57.73,
+        "expression_score": 46.0,
+        "movement_score": 83.04,
+        "sample_count": 13,
+        "face_detection_rate": 84.62
+      },
+      "tracking_report": {
+        "path": "C:\\Users\\HP\\Desktop\\Programming\\HCI_CP3\\Ai_Interviewer\\Ai_Interviewer\\data\\tracking\\20260517-155804-77c04709_se_advanced_architecture.csv",
+        "sample_count": 13,
+        "face_detection_rate": 84.62,
+        "averages": {
+          "eye_contact_score": 50.53,
+          "posture_score": 67.25,
+          "expression_score": 46.0,
+          "stress_score": 54.34,
+          "attention_score": 55.22,
+          "confidence_score": 56.44,
+          "honesty_score": 57.73,
+          "movement_score": 83.04
+        },
+        "expression_distribution": {
+          "uncertain": 11,
+          "not visible": 2
+        },
+        "started_at": "2026-05-17T16:01:17",
+        "ended_at": "2026-05-17T16:01:29"
+      },
+      "answered_at": "2026-05-17T16:01:32"
+    }
+  ],
+  "summary": {
+    "final_score": 54.7,
+    "average_stress": 51.22,
+    "average_attention": 62.19,
+    "average_confidence": 60.25,
+    "average_honesty": 61.95,
+    "average_eye_contact": 59.83,
+    "average_posture": 70.9,
+    "average_face_detection_rate": 87.93,
+    "recommendation": "Needs improvement",
+    "skill_averages": {
+      "communication": 49.77,
+      "problem solving": 34.02,
+      "teamwork": 71.6,
+      "system design": 68.35
+    },
+    "strengths": [
+      "teamwork",
+      "system design"
+    ],
+    "improvements": [
+      "problem solving",
+      "communication"
+    ],
+    "score_notes": [
+      "Attention is estimated from eye-contact proxy, face visibility, posture, and movement stability.",
+      "Honesty is a consistency heuristic from visual stability and answer completeness, not lie detection."
+    ]
+  },
+  "transparency": {
+    "uses_demographics": false,
+    "scoring_factors": [
+      "speech transcript answer quality",
+      "role-specific keywords",
+      "response timing",
+      "continuous eye-contact proxy",
+      "facial expression estimate",
+      "posture framing",
+      "movement stability"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+py -3.10 -m venv .venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip setuptools wheel --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install -r requirements.txt --trusted-host pypi.org --trusted-host files.pythonhosted.org
+python -m unittest discover -s tests
+streamlit run Ai_Interviewer.py
+
+accounts:
+HR: hr@itu.edu.pk 123
+Job Employer: job_employer@itu.edu.pk 123
+Job Candidate: candidate@itu.edu.pk 123

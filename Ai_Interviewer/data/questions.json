@@ -1,0 +1,152 @@
+{
+  "software_engineer": [
+    {
+      "id": "se_intro",
+      "text": "Tell me about yourself and the software work you are most proud of.",
+      "skill": "communication",
+      "level": "core",
+      "keywords": ["software", "project", "team", "problem", "result"],
+      "supportive_prompt": "Describe one project, your role in it, and the result."
+    },
+    {
+      "id": "se_problem_solving",
+      "text": "Describe a difficult technical problem you solved and how you approached it.",
+      "skill": "problem solving",
+      "level": "core",
+      "keywords": ["debug", "test", "design", "tradeoff", "solution"],
+      "supportive_prompt": "Break the problem into cause, action, and final result."
+    },
+    {
+      "id": "se_teamwork",
+      "text": "Tell me about a time you worked with a team under pressure.",
+      "skill": "teamwork",
+      "level": "core",
+      "keywords": ["team", "communicate", "deadline", "support", "feedback"],
+      "supportive_prompt": "Focus on how you communicated and supported the team."
+    },
+    {
+      "id": "se_adaptive_support",
+      "text": "Let's take that step by step. What was your exact action and what changed because of it?",
+      "skill": "communication",
+      "level": "supportive",
+      "keywords": ["action", "changed", "result", "learned"],
+      "supportive_prompt": "Name the action, the outcome, and one thing you learned."
+    },
+    {
+      "id": "se_advanced_architecture",
+      "text": "How would you design a fair and scalable candidate shortlisting service?",
+      "skill": "system design",
+      "level": "advanced",
+      "keywords": ["scalable", "fair", "data", "model", "monitoring", "privacy"],
+      "supportive_prompt": "Mention data flow, scoring, privacy, and monitoring."
+    },
+    {
+      "id": "se_advanced_quality",
+      "text": "What testing strategy would you use before releasing an AI interview feature?",
+      "skill": "quality",
+      "level": "advanced",
+      "keywords": ["unit", "integration", "bias", "edge", "user"],
+      "supportive_prompt": "Cover correctness, edge cases, and fairness checks."
+    }
+  ],
+  "data_analyst": [
+    {
+      "id": "da_intro",
+      "text": "Tell me about yourself and one data project that shows your strengths.",
+      "skill": "communication",
+      "level": "core",
+      "keywords": ["data", "project", "insight", "stakeholder", "result"],
+      "supportive_prompt": "Describe the data, your analysis, and the decision it supported."
+    },
+    {
+      "id": "da_cleaning",
+      "text": "How do you handle missing or unreliable data before reporting results?",
+      "skill": "data quality",
+      "level": "core",
+      "keywords": ["missing", "validate", "clean", "assumption", "outlier"],
+      "supportive_prompt": "Mention validation, assumptions, and how you communicate uncertainty."
+    },
+    {
+      "id": "da_business",
+      "text": "Describe a time you turned analysis into a business recommendation.",
+      "skill": "business reasoning",
+      "level": "core",
+      "keywords": ["recommendation", "metric", "trend", "decision", "impact"],
+      "supportive_prompt": "Explain the metric, the recommendation, and the impact."
+    },
+    {
+      "id": "da_supportive",
+      "text": "Let's simplify it. What was the question, what data did you use, and what did you recommend?",
+      "skill": "communication",
+      "level": "supportive",
+      "keywords": ["question", "data", "recommend", "result"],
+      "supportive_prompt": "Use question, data, action, result."
+    },
+    {
+      "id": "da_advanced_fairness",
+      "text": "How would you check whether an AI interview score is fair across candidate groups?",
+      "skill": "fairness analysis",
+      "level": "advanced",
+      "keywords": ["bias", "group", "metric", "compare", "sample", "audit"],
+      "supportive_prompt": "Mention group metrics, sample size, and audit steps."
+    },
+    {
+      "id": "da_advanced_dashboard",
+      "text": "What would you include in an HR dashboard for comparing candidate performance?",
+      "skill": "dashboard design",
+      "level": "advanced",
+      "keywords": ["score", "trend", "filter", "candidate", "insight"],
+      "supportive_prompt": "Mention ranking, filters, and explainable score details."
+    }
+  ],
+  "hr_assistant": [
+    {
+      "id": "hr_intro",
+      "text": "Tell me about yourself and your experience supporting hiring processes.",
+      "skill": "communication",
+      "level": "core",
+      "keywords": ["hiring", "candidate", "communication", "schedule", "process"],
+      "supportive_prompt": "Describe one hiring task, your role, and the result."
+    },
+    {
+      "id": "hr_fairness",
+      "text": "How would you reduce bias while screening a large number of applicants?",
+      "skill": "fairness",
+      "level": "core",
+      "keywords": ["bias", "rubric", "criteria", "consistent", "skills"],
+      "supportive_prompt": "Mention a rubric, consistent criteria, and skill evidence."
+    },
+    {
+      "id": "hr_candidate_care",
+      "text": "How would you support a nervous candidate during an AI-based interview?",
+      "skill": "candidate experience",
+      "level": "core",
+      "keywords": ["empathy", "clear", "support", "accessibility", "feedback"],
+      "supportive_prompt": "Focus on empathy, clarity, and accessibility."
+    },
+    {
+      "id": "hr_supportive",
+      "text": "Let's make that more specific. What action would you take first and why?",
+      "skill": "communication",
+      "level": "supportive",
+      "keywords": ["first", "because", "candidate", "support"],
+      "supportive_prompt": "State the first action and the reason."
+    },
+    {
+      "id": "hr_advanced_dashboard",
+      "text": "What insights should an HR manager see after several AI interviews?",
+      "skill": "dashboard reasoning",
+      "level": "advanced",
+      "keywords": ["compare", "performance", "stress", "score", "insight"],
+      "supportive_prompt": "Mention comparison, performance trends, and candidate notes."
+    },
+    {
+      "id": "hr_advanced_ethics",
+      "text": "How should an organization explain AI interview decisions to candidates?",
+      "skill": "transparency",
+      "level": "advanced",
+      "keywords": ["transparent", "explain", "criteria", "feedback", "appeal"],
+      "supportive_prompt": "Cover criteria, feedback, and an appeal path."
+    }
+  ]
+}

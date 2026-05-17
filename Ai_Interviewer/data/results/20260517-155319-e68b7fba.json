@@ -1,0 +1,40 @@
+{
+  "session_id": "20260517-155319-e68b7fba",
+  "candidate_name": "candidate@itu.edu.pk",
+  "candidate_email": "candidate@itu.edu.pk",
+  "interview_template_id": "default-data_analyst",
+  "interview_title": "Data Analyst Screening",
+  "role": "data_analyst",
+  "max_questions": 5,
+  "started_at": "2026-05-17T15:53:19",
+  "completed_at": "2026-05-17T15:55:07",
+  "answers": [],
+  "summary": {
+    "final_score": 0.0,
+    "average_stress": 0.0,
+    "average_attention": 0.0,
+    "average_confidence": 0.0,
+    "average_honesty": 0.0,
+    "average_eye_contact": 0.0,
+    "average_posture": 0.0,
+    "average_face_detection_rate": 0.0,
+    "recommendation": "Incomplete",
+    "strengths": [],
+    "improvements": [
+      "Complete at least one answer"
+    ],
+    "score_notes": []
+  },
+  "transparency": {
+    "uses_demographics": false,
+    "scoring_factors": [
+      "speech transcript answer quality",
+      "role-specific keywords",
+      "response timing",
+      "continuous eye-contact proxy",
+      "facial expression estimate",
+      "posture framing",
+      "movement stability"
+    ]
+  }
+}
