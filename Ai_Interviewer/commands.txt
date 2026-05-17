@@ -1,3 +1,4 @@
+open terminal and then cd to Ai_Interviewer, then run the following commands one by one
 py -3.10 -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 .\.venv\Scripts\Activate.ps1
