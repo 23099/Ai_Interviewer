@@ -1,0 +1,10 @@
+numpy==1.24.4
+# protobuf==3.20.3
+# opencv-python==4.9.0.80
+# mediapipe==0.10.11
+# tensorflow==2.15.0
+deepface==0.0.79
+ pip install fer tensorflow opencv-python dlib imutils numpy
+ pip install fer tensorflow
+ pip install opencv-python pyttsx3 speechrecognition pyaudio scikit-learn joblib
+ pip install opencv-python mediapipe pyttsx3 speechrecognition pyaudio scikit-learn nltk
