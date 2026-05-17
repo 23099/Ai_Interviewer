@@ -7,3 +7,4 @@ data/results/*.json
 data/tracking/*.csv
 data/audio/*
 *.pkl
+*.venv
